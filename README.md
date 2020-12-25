@@ -18,6 +18,7 @@ https://github.com/goproxy/goproxy.cn/blob/master/README.zh-CN.md
 直接在命令行执行
 
     go env -w GOPROXY=https://goproxy.cn
+    go env -w GO111MODULE=on
 
 安装BeeGo 框架建议安装 bee 工具
 
